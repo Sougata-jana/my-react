@@ -1,9 +1,13 @@
+import Sou from "./Sou";
 
 
 
 function App() {
   return (
-    <h1>Hello sougata react</h1>
+    <>
+    <Sou/>
+    <h1>Hello sougata react | sougata</h1>
+    </>
   );
 }
 

@@ -1,10 +1,15 @@
+import Sou from "./Sou"
 
 
 function App() {
 
 
   return (
-   <h1>react run withe vite</h1>
+    // <> this is called fragmeant
+    <>      
+    <Sou/>
+    <h2>sougata </h2>
+    </>
   )
 }
 
