@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
   return (
     <>
-      <h1 className='bg-green-400 text-black p-3 round -xl'>test tailwind</h1>
+      <h1 className=' text-black p-3 round -xl'>test tailwind</h1>
      <Card userName="Sougataf7" />
      <Card/>
     </>
